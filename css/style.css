@@ -347,7 +347,7 @@ button:focus {
 
 .custom-nav {
     padding: 12px 0px;
-    width: 100%;
+    width: auto;
     border-radius: 0px;
     z-index: 999;
     margin-bottom: 0px;
